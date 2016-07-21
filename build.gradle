@@ -16,7 +16,7 @@ apply plugin: 'spring-boot'
 apply plugin: 'war'
 apply plugin: 'application'
 
-mainClassName = 'com.hybrid.Chap03Application'
+mainClassName = 'com.hybrid.Chap0301Application'
 
 war {
 	baseName = 'chap03'
