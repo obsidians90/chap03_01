@@ -18,7 +18,7 @@
 			System.out.println(emp.getEmpno() + " " + emp.getEname() + " " + emp.getJob() + " " + emp.getMgr() + " " +
 		emp.getHiredate() + " " + emp.getSal() + " " + emp.getComm() + " " + emp.getDeptno());
 			out.println(emp.getEmpno() + " " + emp.getEname() + " " + emp.getJob() + " " + emp.getMgr() + " " +
-		emp.getHiredate() + " " + emp.getSal() + " " + emp.getComm() + " " + emp.getDeptno() + "<br");
+		emp.getHiredate() + " " + emp.getSal() + " " + emp.getComm() + " " + emp.getDeptno() + "<br>");
 		}
 	%>
 </body>
